@@ -1,6 +1,7 @@
 # voicemeeter-auto-affinity-hidden
 <!-- URLS -->
 [latest release]:https://github.com/devCKVargas/voicemeeter-auto-affinity-hidden/releases/latest
+[latest release direct download URL]:https://github.com/devCKVargas/voicemeeter-auto-affinity-hidden/releases/download/v1.0/install-voicemeeter-fix.ps1
 
 [![Github Downloads all Releases](https://img.shields.io/github/downloads/devCKVargas/voicemeeter-auto-affinity-hidden/total)](https://github.com/devCKVargas/voicemeeter-auto-affinity-hidden/releases)
 [![Github Downloads latest Release](https://img.shields.io/github/downloads/devCKVargas/voicemeeter-auto-affinity-hidden/latest/total)](https://github.com/devCKVargas/voicemeeter-auto-affinity-hidden/releases/latest)
@@ -15,7 +16,7 @@
 
 ## How to Install
 
-Download & run the `install-voicemeeter-fix.ps1` file from the [latest release][latest release]. That's it!
+Download & run [install-voicemeeter-fix.ps1][latest release direct download URL]. That's it!
 
 ## How to Uninstall
 
